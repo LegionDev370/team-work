@@ -12,3 +12,4 @@ for (let i = 0; i < split.length; i++) {
   return empty;
 }
 console.log(empty);
+console.log(empty);
