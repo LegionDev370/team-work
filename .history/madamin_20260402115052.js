@@ -1,6 +1,6 @@
-const text = 'Madamin';
+const text = "Madamin";
 console.log(text);
-let split = text.split('');
+let split = text.split("");
 
 for (let i = 0; i < split.length; i++) {
   let empty = [];
@@ -13,7 +13,3 @@ for (let i = 0; i < split.length; i++) {
 }
 console.log(empty);
 console.log(empty);
-
-console.log(undefined);
-console.log(null);
-console.log("xato so'rov");
