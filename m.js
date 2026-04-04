@@ -1,0 +1,1 @@
+console.log("Hello Github and welcome to the world of JavaScript!");
